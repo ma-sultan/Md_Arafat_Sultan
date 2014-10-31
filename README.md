@@ -38,7 +38,7 @@ Tamara Sumner
 
 | Course           | Taken             | Planned            | Depth    | Breadth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
-| CSCI 5444 Intro to Theory of Computation       | Fall 2011         | {semester} {year}  | no       | yes     |
+| CSCI 5444 Intro to Theory of Computation | Fall 2011 | {semester} {year}  | no | yes |
 | CSCI 5448        | Fall 2011         | {semester} {year}  | no       | yes     |
 | CSCI 5622        | Spring 2014       | {semester} {year}  | yes      | no      |
 | CSCI 5832        | Fall 2012         | {semester} {year}  | yes      | yes     |
