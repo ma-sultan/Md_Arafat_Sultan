@@ -50,9 +50,13 @@ Tamara Sumner
 ## Publications
 
 
-* Identifying science concepts and student misconceptions in an interactive essay writing tutor. Steven Bethard, Ifeyinwa Okoye, Md. Arafat Sultan, Haojie Hang, James H. Martin, and Tamara Sumner.  In Proceedings of the Seventh Workshop on Innovative Use of NLP for Building Educational Applications, 2012.
-* Identifying core concepts in educational resources. James Foster, Md. Arafat Sultan, Holly Devaul, Ifeyinwa Okoye, Tamara Sumner. In Proceedings of the 12th ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2012.
-* DLS@CU-CORE: A simple machine learning model of semantic textual similarity. Md. Arafat Sultan, Steven Bethard, and Tamara Sumner. In Proceedings of the Second Joint Conference on Lexical and Computational Semantics (*SEM), 2013.
+* Towards Automatic Identification of Core Concepts in Educational Resources. 2014. Md Arafat Sultan, Steven Bethard, Tamara Sumner. To appear in: Proceedings of the International Conference on Digital Libraries (DL), London, UK.
+* DLS@CU: Sentence Similarity from Word Alignment. 2014. Md Arafat Sultan, Steven Bethard, Tamara Sumner. In: Proceedings of the 8th International Workshop on Semantic Evaluation (SemEval), Dublin, Ireland. pp. 241-246.
+* Back to Basics for Monolingual Alignment: Exploiting Word Similarity and Contextual Evidence. 2014. Md Arafat Sultan, Steven Bethard, Tamara Sumner. In: Transactions of the Association for Computational Linguistics, Vol. 2, pp. 219-230.
+* DLS@CU-CORE: A simple machine learning model of semantic textual similarity. 2013. Md Arafat Sultan, Steven Bethard, and Tamara Sumner. In Proceedings of the Second Joint Conference on Lexical and Computational Semantics (*SEM).
+* Identifying science concepts and student misconceptions in an interactive essay writing tutor. 2012. Steven Bethard, Ifeyinwa Okoye, Md Arafat Sultan, Haojie Hang, James H. Martin, and Tamara Sumner.  In Proceedings of the Seventh Workshop on Innovative Use of NLP for Building Educational Applications.
+* Identifying core concepts in educational resources. 2012. James Foster, Md Arafat Sultan, Holly Devaul, Ifeyinwa Okoye, Tamara Sumner. In Proceedings of the 12th ACM/IEEE Joint Conference on Digital Libraries (JCDL).
+
 
 
 ## Presentations
