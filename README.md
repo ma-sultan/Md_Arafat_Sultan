@@ -29,7 +29,7 @@ Tamara Sumner
 
 | Milestone            | Completed         | Planned           |         
 | -------------------- | ----------------- | ----------------- |
-| Start                | {semester} {year} |                   |
+| Start                |     Fall 2011     |                   |
 | Area Exam            | {semester} {year} | {semester} {year} |
 | Proposal Defense     | {semester} {year} | {semester} {year} |
 | Dissertation Defense | {semester} {year} | {semester} {year} |
