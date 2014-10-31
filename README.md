@@ -38,7 +38,7 @@ Tamara Sumner
 
 | Course           | Taken             | Planned            | Depth    | Breadth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
+| CSCI 5444        | Fall 2011         | {semester} {year}  | no       | yes     |
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
